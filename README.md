@@ -1,1 +1,2 @@
-# DigitRecognizer
+# MNIST CNN 
+
